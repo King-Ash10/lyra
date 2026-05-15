@@ -34,7 +34,7 @@ its a live real-time TUI that displays whatsong you're listening to, as far as i
 
 ## build instructions
 ```bash
-git clone https://github.com/<your-username>/lyra.git
+git clone https://github.com/King-Ash10/lyra.git
 cd lyra
 
 cmake -B build -G Ninja
