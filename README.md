@@ -18,7 +18,7 @@ its a live real-time TUI that displays whatsong you're listening to, as far as i
 
 ## features coming soon
 - an audio visualiser (FFT cus it sounds cool)
-- synced lyrics
+- synced lyrics  (this might be difficult due to limited musixmatch api access so expect this to come last or dont expect full support or spotify syncing)
 - album art support (by ASCII conversion cus i dont know how to get images to render)
 - progress bar WITH track timing
 - playback controlls
